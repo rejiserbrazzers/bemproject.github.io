@@ -1,0 +1,104 @@
+﻿.order{
+      width: 1200px;
+    display: flex;
+    position: center;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top: 392px;
+    height:1080px;
+    background-color: #ffcb78;
+}
+
+.order__title{
+        margin-top: 83px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+
+.order__text{
+      margin-top: 220px;
+    margin-left: 200px;
+    font-family: sans-serif;
+    font-size: 15px;
+    position: absolute;
+    width: 650px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+.order__form{
+    margin-left: 70px;
+    margin-top: 170px;
+    font-size: 15px;
+    position: absolute; 
+
+
+}
+
+
+.order__pole
+{
+    margin-top: -10px;
+}
+.lable{
+    margin-top: 5px;
+     
+}
+
+.order__pole{
+     margin-left: 50px;
+}
+
+.form__introduse{
+    margin-left: 65px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+}
+
+.order__imputs {
+    background-color: #e6b66c;
+    height: 42px;
+}
+.order__imputs
+{
+    padding: 0px;
+    border: 0px;
+}
+.form__introduse-float{
+    float:left;
+}
+
+.order__pole-margin{
+    margin-left: 35px;
+}
+
+.form__introduse-margin
+{
+   margin-left: 20px; 
+}
+.order__polemail
+{
+    margin-left: 140px;
+}
+
+.lable-margin{
+    margin-left: 30px;
+}
+.form__obem{
+    margin-top: 100px;
+}
+
+[attribute|="value"]
+{
+   color:yellow;
+}
+
+.form__introduse-margitotstup{
+    margin-top: 50px;
+}

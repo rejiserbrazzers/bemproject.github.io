@@ -1,0 +1,132 @@
+﻿.tablica
+{
+
+     border-bottom: 1px solid #CCCCCC;
+
+}
+.assort {}
+
+.assort__title {
+    margin-top: 93px;
+    margin-left: 340px;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+
+
+
+}
+
+.assorttable {
+    list-style-type: none;
+
+}
+
+table {
+    border: 0px solid black;
+    width: 810px;
+    height: 320px;
+    margin-left: 40px;
+
+}
+
+tr,
+td {
+    border: 0px solid black;
+         border-bottom: 1px solid #CCCCCC;
+
+
+}
+
+.assort__ul {
+    justify-content: space-between;
+    color: black;
+    position: absolute;
+    list-style-type: none
+}
+
+.assorttable {
+    height: 400px;
+    margin-top: 75px;
+    margin-left: 300px;
+    font-size: 10px;
+    height: 30px;
+}
+
+
+
+.assorttable__name {
+
+    width: 100px;
+}
+
+.assorttable__blank {
+
+    width: 120px;
+}
+
+.assorttable__blank2 {
+
+    width: 140px;
+    text-align: center;
+}
+
+.assorttable__alc {
+text-align: center;
+    width: 60px;
+}
+
+.assorttable__ccl {
+text-align: center;
+    width: 40px;
+}
+
+.assorttable__blank2 {
+    width: 50px;
+
+}
+
+.assorttable__obem {
+
+    width: 0px;
+}
+
+
+.assorttable__obem2 {
+    width: 200px;
+}
+
+assorttable__obem {}
+
+.assorttable__name {
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.assorttable__zagolovki {
+
+    margin-top: -10px;
+   padding: 0px;
+    margin: 0px;
+    font-weight: bolder;
+        font-family: sans-serif;
+
+    font-size: 10px;
+ text-align: center; 
+
+}
+
+
+.assorttable__text-correction{
+   font-family: sans-serif;
+    font-weight: bolder;
+    font-size: 14px;
+    
+}
+
+td{
+    
+}
