@@ -1,9 +1,9 @@
-﻿.tablica
-{
+﻿.tablica {
 
-     border-bottom: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
 
 }
+
 .assort {}
 
 .assort__title {
@@ -35,7 +35,7 @@ table {
 tr,
 td {
     border: 0px solid black;
-         border-bottom: 1px solid #CCCCCC;
+    border-bottom: 1px solid #CCCCCC;
 
 
 }
@@ -57,6 +57,8 @@ td {
 
 
 
+
+
 .assorttable__name {
 
     width: 100px;
@@ -74,12 +76,12 @@ td {
 }
 
 .assorttable__alc {
-text-align: center;
+    text-align: center;
     width: 60px;
 }
 
 .assorttable__ccl {
-text-align: center;
+    text-align: center;
     width: 40px;
 }
 
@@ -109,24 +111,22 @@ assorttable__obem {}
 .assorttable__zagolovki {
 
     margin-top: -10px;
-   padding: 0px;
+    padding: 0px;
     margin: 0px;
     font-weight: bolder;
-        font-family: sans-serif;
+    font-family: sans-serif;
 
     font-size: 10px;
- text-align: center; 
+    text-align: center;
 
 }
 
 
-.assorttable__text-correction{
-   font-family: sans-serif;
+.assorttable__text-correction {
+    font-family: sans-serif;
     font-weight: bolder;
     font-size: 14px;
-    
+
 }
 
-td{
-    
-}
+

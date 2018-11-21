@@ -189,9 +189,15 @@
 
 .knopki__price2 {
     font-size: 17px;
-
     margin-top: 17px;
     margin-left: 285px;
     font-family: sans-serif;
 
+}
+
+
+
+.form__butoom{
+    margin-top: 390px;
+    margin-left: 110px;
 }
