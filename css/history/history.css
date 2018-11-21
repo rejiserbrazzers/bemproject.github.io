@@ -1,0 +1,50 @@
+﻿.history__main{
+ font-family:  sans-serif; 
+ font-size: 40px;
+    font-weight: 700;
+    margin-top: 90px;
+    margin-left:345px; 
+}
+
+
+
+
+
+
+.history__title{
+     font-family:  sans-serif; 
+     font-size: 20px;
+    font-weight: bold;
+    margin-top: 85px;
+    margin-left: 350px;
+
+}
+
+.history__content
+{
+    font-family:  sans-serif; 
+    line-height:33px;
+    align-content: center;
+    width: 500px;
+    margin-left: 350px;
+    margin-top: 25px;
+}
+
+.history__img
+{
+    position: absolute;
+    margin-left: 940px; 
+    margin-top: -117px;
+    
+}
+
+
+
+.history__post1{
+    margin-bottom: -20px;
+}
+
+
+.history__post2{
+    margin-bottom: 12px;
+}

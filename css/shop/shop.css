@@ -1,0 +1,197 @@
+﻿.shop {}
+
+.shop__new {
+    margin-top: 93px;
+    margin-left: 341px;
+    font-size: 40px;
+
+    font-weight: 700;
+    font-family: sans-serif;
+
+}
+
+
+
+.item1_img {
+    margin-top: 100px;
+    margin-left: 385px;
+    float: left;
+}
+
+.item2_img {
+    margin-top: 100px;
+    margin-left: 785px;
+
+}
+
+
+
+.shop_inf1 {
+    position: absolute;
+    font-weight: 670;
+    font-size: 17px;
+    margin-top: 100px;
+    margin-left: 566px;
+    font-family: sans-serif;
+    line-height: 2;
+
+}
+
+
+.shop_inf2 {
+    position: absolute;
+    font-weight: 670;
+    font-size: 17px;
+    margin-left: 965px;
+    font-family: sans-serif;
+    line-height: 2;
+
+}
+
+.item1_name {
+    margin-top: 565px;
+    margin-left: 374px;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    position: absolute;
+
+}
+
+.item2_name {
+
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin-left: 775px;
+}
+
+.item1_moreinf {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 1.5;
+    font-family: sans-serif;
+    margin-left: 566px;
+    margin-top: 200px;
+}
+
+.item2_moreinf {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 1.5;
+    font-family: sans-serif;
+    margin-left: 970px;
+    margin-top: 100px;
+}
+
+.item1_moremoreinf {
+    position: absolute;
+    font-size: 15px;
+    font-weight: 100;
+    line-height: 2;
+    font-family: sans-serif;
+    margin-left: 370px;
+    margin-top: 27px;
+}
+
+.item2_moremoreinf {
+    position: absolute;
+    font-size: 15px;
+    line-height: 1.5;
+    margin-left: 775px;
+    line-height: 2;
+
+    font-family: sans-serif;
+    margin-top: 28px;
+}
+
+
+.wrap {}
+
+.inf_bord {
+    border-right: 1px solid #CCCCCC;
+    border-left: 0px solid #CCCCCC;
+    border-bottom: 0px solid #CCCCCC;
+    border-top: 0px solid #CCCCCC;
+}
+
+.knopki {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    margin-top: 175px;
+    margin-left: 375px;
+
+
+}
+
+
+
+
+
+.knopki-right {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    font-weight: bold;
+    margin-top: 175px;
+    margin-left: 775px;
+
+
+}
+
+.knopki__podrobnee {
+    position: absolute;
+    padding-top: 15px;
+    padding-left: 21px;
+    width: 123px;
+    height: 33px;
+    font-size: 15px;
+    color: #834700;
+    font-family: sans-serif;
+    border: 2px solid #834700;
+    /* Параметры границы */
+    background: white;
+    /* Цвет фона */
+
+
+}
+
+.knopki__kupit {
+    position: absolute;
+    padding-top: 15px;
+    padding-left: 21px;
+    width: 83px;
+    height: 33px;
+    font-size: 15px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+    margin-left: 155px;
+
+    border: 2px solid #834700;
+    /* Параметры границы */
+    background: #834700;
+    /* Цвет фона */
+
+}
+
+
+.knopki_price {
+    font-size: 17px;
+
+    margin-top: 17px;
+    margin-left: 285px;
+    font-family: sans-serif;
+}
+
+.knopki__price2 {
+    font-size: 17px;
+
+    margin-top: 17px;
+    margin-left: 285px;
+    font-family: sans-serif;
+
+}
